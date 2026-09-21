@@ -2,4 +2,4 @@ Partial recreation of results of the article "Integrative proteomic profiling of
 available at:  https://europepmc.org/article/MED/27561551 made as a class project.
 
 
-Project was done using Python. We first plotted ?, made a 
+Project was done using Python. We first plotted protein intensity across samples, made a clustered heatmap and lastly PCA. Obtained results were the same as in original paper.
